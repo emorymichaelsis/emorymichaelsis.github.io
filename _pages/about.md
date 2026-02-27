@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Emory Smith"
+title: "About Emory Michaels"
 author_profile: true
 redirect_from: 
   - /about/
