@@ -31,7 +31,7 @@ author:
   employer         : "University of Notre Dame"
   uri              : # URL
   email            : "emorymichaelsis@gmail.com" 
-  edu.email        : "emory.michaels@nd.edu"
+  edu_email        : "emory.michaels@nd.edu"
 
   # Academic websites
   academia         : # URL
