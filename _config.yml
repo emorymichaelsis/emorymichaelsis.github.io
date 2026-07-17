@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -24,13 +24,13 @@ author:
   # Biographic information
   avatar           : "profile_emory.jpg"
   name             : "Emory Michaels"
-  pronouns         : "she/her"  
+  pronouns         : "she/her"
   previous_names   : "Emory Smith"
   bio              : "CSE PhD Student at the University of Notre Dame"
   location         : "South Bend, IN"
   employer         : "University of Notre Dame"
   uri              : # URL
-  email            : "emorymichaelsis@gmail.com" 
+  email            : "emorymichaelsis@gmail.com"
   edu_email        : "emory.michaels@nd.edu"
 
   # Academic websites
@@ -49,8 +49,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "emorysmithis" # Username - Update with your username on the site
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
@@ -79,13 +79,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
