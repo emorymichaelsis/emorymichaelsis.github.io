@@ -1,7 +1,7 @@
 ---
 title: "What is Behind Homelessness Bias? Using LLMs and NLP to Mitigate Homelessness by Acting on Social Stigma"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-08-01-what-is-behind-homelessness-bias-5
 date: 2025-08-01
 venue: 'International Joint Conferences on Artificial Intelligence Organization'

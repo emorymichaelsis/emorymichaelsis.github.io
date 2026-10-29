@@ -1,7 +1,7 @@
 ---
 title: "The Preternship—An academic-industry partnership model for early experiential learning experiences in computer science curricula"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2020-08-01-preternship-1
 date: 2010-08-01
 venue: '2020 IEEE Integrated STEM Education Conference (ISEC)'
